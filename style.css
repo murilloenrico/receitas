@@ -1,0 +1,31 @@
+body{
+     margin: 0; /* zera a margem do corpo, encostando na borda do stroke-miterlimit */
+}
+
+.navegacao{
+     display: flex; /*cria o espaço para controlar */
+     justify-content: space-between; /*Espacamento */
+    background-color: red;
+    height: 50px; 
+    padding-top: 25px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+     padding-left: 20px; /* Esses padding para mudar espaçamento das borda */
+    padding-right: 20px;
+}
+
+/* Pegar o paragrafo da class para mudar a cor do texto */
+p a{
+    color: white;
+     text-decoration: none; /* Tirar sublinhado */
+}
+
+/* ao clicar muda a cor do texto */
+p a:hover{
+    color:black
+}
+
+/* mudar o background onde tiver com o mouse 
+.navegacao :hover {
+    background-color: blue;
+}
+*/

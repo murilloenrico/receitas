@@ -1,1 +1,1 @@
-# Site desenvolvido na UMC com receitas!
+# Site sobre receitas desenvolvido durante a aula na UMC.
